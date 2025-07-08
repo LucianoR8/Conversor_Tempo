@@ -1,0 +1,14 @@
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\bin\Debug\net8.0\ConversorSegundos.exe
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\bin\Debug\net8.0\ConversorSegundos.deps.json
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\bin\Debug\net8.0\ConversorSegundos.runtimeconfig.json
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\bin\Debug\net8.0\ConversorSegundos.dll
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\bin\Debug\net8.0\ConversorSegundos.pdb
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.AssemblyInfoInputs.cache
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.AssemblyInfo.cs
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.csproj.CoreCompileInputs.cache
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.dll
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\refint\ConversorSegundos.dll
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.pdb
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ConversorSegundos.genruntimeconfig.cache
+C:\Documentos\codigos_github\conversor_segundos\ConversorSegundos\ConversorSegundos\obj\Debug\net8.0\ref\ConversorSegundos.dll
